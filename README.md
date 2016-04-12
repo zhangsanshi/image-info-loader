@@ -1,6 +1,6 @@
-`# image info loader for webpack
+# image info loader for webpack
 
-A webpack image loader with extra size info for image.`
+A webpack image loader with extra size info for image.
 
 ## Usage
 
@@ -65,3 +65,6 @@ module.exports = {
 };
 ```
 
+## thank you
+
+boopathi https://github.com/boopathi/image-size-loader
