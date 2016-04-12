@@ -1,0 +1,19 @@
+{
+  "name": "image-info-loader",
+  "version": "0.0.1",
+  "description": "image info loader module for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangsanshi5566@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "image-size": "^0.5.0",
+    "loader-utils": "^0.2.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangsanshi/image-info-loader.git"
+  }
+}

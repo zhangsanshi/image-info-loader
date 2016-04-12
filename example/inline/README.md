@@ -1,0 +1,1 @@
+you can run 'webpack inline.js public/out.js'
